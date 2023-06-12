@@ -1,3 +1,8 @@
+# 코드 재현
+
+아래 튜토리얼 따라 진행 시 문제없음.
+data 폴더에 IEMOCAP 데이터 옮겨 놓으면 재현 가능
+
 # Light-SERNet
 
 This is the Tensorflow 2.x implementation of our paper ["Light-SERNet: A lightweight fully convolutional neural network for speech emotion recognition"](https://arxiv.org/abs/2110.03435), accepted in ICASSP 2022. 
